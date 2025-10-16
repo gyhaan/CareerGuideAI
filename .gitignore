@@ -1,0 +1,8 @@
+/venv
+*.h5
+*.model
+*.json
+saved-models
+career-chatbot-flan-t5
+logs
+results

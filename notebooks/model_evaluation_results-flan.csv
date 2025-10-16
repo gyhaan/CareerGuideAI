@@ -1,0 +1,2 @@
+timestamp,model_name,num_train_epochs,learning_rate,train_loss,eval_loss,BLEU,F1
+2025-10-15 15:44:55,google/flan-t5-base,5,5e-05,1.390961296175733,,0.14001859602611424,0.3809418556248699
